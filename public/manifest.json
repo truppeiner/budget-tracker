@@ -1,0 +1,16 @@
+{
+    "name": "Budget Tracker",
+    "short_name": "Budg Track",
+    "description": "A web application for tracking income as well as exspenses",
+    "icons": [
+        {
+
+        }
+    ],
+    "theme_color": "white",
+    "background_color": "black",
+    "start_url": "./",
+    "display": "fullscreen",
+    "id": "./"
+
+}
